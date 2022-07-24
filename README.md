@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=vteam27.vteam27&color=44CC11)
-<hr>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+!,+I'm+Vaibhav;An+Open+Source+Enthusiast+☀;A+Web+Developer+💻;A+Data+Scientist;Loves+To+Build+🛠;">
 </p>
@@ -49,7 +47,10 @@
 	<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+	<hr>
 </p>
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=vteam27.vteam27&color=44CC11)
 
 <!--
 ### Hi there 👋
